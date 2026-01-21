@@ -1,4 +1,4 @@
-# presence[README.md](https://github.com/user-attachments/files/24779888/README.md)
+[README.md](https://github.com/user-attachments/files/24779888/README.md)
 # Presence
 
 A personal companion that helps you follow through on what matters.
